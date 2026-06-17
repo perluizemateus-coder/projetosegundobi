@@ -1,0 +1,58 @@
+header {
+    color: black;
+    background-color: red;
+    text-align: center;
+    width: 100%;
+    top: 0;
+    position: fixed;
+}
+
+main {
+    color: black;
+    background-color: rgb(195, 202, 233);
+    padding: 20px;
+    margin-top: 70px;
+    margin-bottom: 75px;
+
+}
+
+footer {
+    color: black;
+    background-color: red;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    font-size: 10px;
+
+}
+
+h2 {
+    color: black;
+    text-align: center;
+}
+
+p {
+    color: black;
+    text-align: justify;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    border: 10px solid black;
+}
+
+a {
+    color: rgb(6, 51, 255);
+    text-decoration: none;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 10px;
+}
